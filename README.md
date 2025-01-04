@@ -10,6 +10,7 @@
 - Location-Based Alerts: - Geofencing support to send alerts based on user-defined regions.
 
 # Technologies
+- Programming Language: Swift
 - SwiftUI
 - Core Location: For user location tracking.
 - Combine: Handles real-time data updates.
