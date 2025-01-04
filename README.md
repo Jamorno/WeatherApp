@@ -12,6 +12,7 @@
 # Technologies
 - Programming Language: Swift
 - SwiftUI
+- Architecture: MVVM (Model-View-ViewModel)
 - Core Location: For user location tracking.
 - Combine: Handles real-time data updates.
 - MapKit: Displays weather-related map overlays.
